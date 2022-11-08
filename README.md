@@ -123,7 +123,8 @@ As a result of the above codes, We have analysed three years of stock market dat
 
 ##### 2018 Stock Analysis 
 
-![](resources/StockSummary - 2018.png)
+
+![StockSummary - 2018](https://user-images.githubusercontent.com/24644072/200460951-9bd93faa-863b-4c90-b877-c53e3a01a6a5.PNG)
 
 
 I have also analysed the highest performing & worst performing stock and volume of highest performing
@@ -133,7 +134,8 @@ The screenshots attached below for the reference.
 
 ##### 2018 Highest & Worst performing stock
 
-![](resources/GreatestStock - 2018.png)
+
+![GreatestStock - 2018](https://user-images.githubusercontent.com/24644072/200460991-c42c0610-ebd1-4d8b-9fc1-385944fbc930.PNG)
 
 
 
