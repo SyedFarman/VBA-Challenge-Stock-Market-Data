@@ -138,5 +138,3 @@ The screenshots attached below for the reference.
 ![GreatestStock - 2018](https://user-images.githubusercontent.com/24644072/200460991-c42c0610-ebd1-4d8b-9fc1-385944fbc930.PNG)
 
 
-
-
